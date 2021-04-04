@@ -3,6 +3,7 @@
 
 Ce site à pour but de m'apprendre le Vue à travers Nuxt.js
 
+[![](https://mir-s3-cdn-cf.behance.net/project_modules/fs/172f05113499547.60295a2420301.jpg)](https://mir-s3-cdn-cf.behance.net/project_modules/fs/172f05113499547.60295a2420301.jpg)
 ## Tech
 
 Techno utiliser:
