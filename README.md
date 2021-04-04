@@ -1,20 +1,38 @@
-# portfolio-nuxtjs
+# Portfolio 2021
+## Voici mon Portfolio 2021 attention il est en cours de construction.
 
-## Build Setup
+Ce site à pour but de m'apprendre le Vue à travers Nuxt.js
 
-```bash
-# install dependencies
-$ npm install
+## Tech
 
-# serve with hot reload at localhost:3000
-$ npm run dev
+Techno utiliser:
 
-# build for production and launch server
-$ npm run build
-$ npm run start
+- Vue.js
+- Nuxt.js
+- CSS
 
-# generate static project
-$ npm run generate
+## Installation
+
+Vous devez avoir [Node.js](https://nodejs.org/) installer sur votre machine.
+
+Commencer par clone mon repo
+
+```sh
+git clone https://github.com/AytoKyto/Portgolio-2021.git
+cd Portgolio-2021
 ```
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+Installer les différentes dépendance
+
+```sh
+npm install
+```
+
+Lancer APP
+
+```sh
+npm run dev
+```
+Ovrez en local http://localhost:3000 dans votre navigateur.
+
+###End
